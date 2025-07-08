@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simply-Lina
+- 👋 Hi, I’m Linet Kendi
 - 👀 I’m a CyberSecurity Researcher
 - 🌱 I’m currently Studying for Masters in Information Security 
 - 💞️ I’m looking to collaborate on Infosec Projects
